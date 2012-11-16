@@ -1,4 +1,4 @@
-PROG := RpnCalcState
+PROG := RpnCalcSplit
 
 all: ${PROG}
 ${PROG}: ${PROG}.hs
